@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Games_C++\Minesweeper\Minesweeper\main.cpp(7,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Games_C++\Minesweeper\Minesweeper\main.cpp(67,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Games_C++\Minesweeper\Minesweeper\main.cpp(67,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Minesweeper.vcxproj -> D:\Games_C++\Minesweeper\Debug\Minesweeper.exe
